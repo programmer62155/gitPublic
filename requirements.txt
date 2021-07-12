@@ -9,3 +9,7 @@ dark mode
 
 video calls
 added
+
+payment option
+send money 
+recieve money
